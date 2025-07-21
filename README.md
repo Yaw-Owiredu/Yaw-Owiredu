@@ -1,31 +1,42 @@
-# 👋 Hi there, I'm Cosmos Owiredu
+# 👋 Hi, I'm Cosmos Owiredu
 
-I'm a passionate and growth-driven **Software Developer** with a solid foundation in **Java, web development (HTML/CSS/JavaScript), databases**, and **networking**. I’m currently deepening my expertise in building scalable and user-friendly applications — both on the **front end and back end**.
+🎓 **EdTech Consultant | Curriculum Developer | Microsoft Certified Educator | AWS Certified Cloud Practitioner**
 
-## 🔧 What I Do
-- Build and test full-stack Java applications  
-- Develop clean, responsive websites using modern HTML/CSS  
-- Work with relational databases (SQL)  
-- Solve real-world problems with code and logic  
-- Continuously learn and experiment with new technologies  
+I’m a passionate EdTech consultant and digital learning strategist with a mission to help schools and teachers integrate ICT in ways that **transform education—not just digitize it**.
 
-## 🌱 Currently Learning
-- Advanced Java (OOP, multithreading)  
-- Spring Boot & REST APIs  
-- Git & GitHub collaboration workflows  
-- Cybersecurity and network protocols
+With over **6 years** of experience, I’ve:
+- Trained hundreds of educators across Ghana and West Africa
+- Designed ICT curricula tailored to African learning environments
+- Led digital transformation initiatives in schools and teacher training programs
 
-## 📚 Academic Background
-Student of Information and Communication Technology (Elective), with hands-on exposure to practical programming, systems, and networking concepts.
+## 🏆 Certifications & Recognition
+- ✅ **Microsoft Certified Educator (MCE)**
+- ✅ **AWS Certified Cloud Practitioner**  
+  📰 *Recognized by the [Department of ICT Education, University of Education, Winneba](https://www.linkedin.com/posts/department-of-ict-education-university-of-education-winneba_uewalumni-techleadership-cloudcomputing-activity-7337926049701285888-mZTN)* for excellence in cloud leadership and commitment to educational technology advancement
+- ☁️ **Skilled in Microsoft 365 for Education, Google Workspace & LMS platforms**
 
-## 📫 Let's Connect
-- 💼 [LinkedIn Profile](https://linkedin.com/in/cosmos-owiredu-93a266156/)
-- 🌐 [GitHub Projects](https://github.com/Yaw-Owiredu)
+## 🔧 What I Specialize In
+- ICT curriculum design tailored for African classrooms  
+- Remote teacher training & digital skills development  
+- Cloud-powered education platforms (Microsoft, Google, AWS)  
+- EdTech speaking & consulting  
+- Blended learning, e-learning, and digital pedagogy  
 
-## 🎯 Goals
-- Contribute to open-source projects  
-- Build a portfolio of impactful applications  
-- Collaborate with developers and tech communities  
-- Transition into a software engineering or DevOps role after school
+> I don’t just teach tech — I help educators **own it**.
 
--->
+---
+
+## 🎯 Let’s Connect If You’re:
+- A **school leader** shaping a digital learning strategy  
+- A **policymaker** seeking scalable ICT in education  
+- An **education-focused NGO** working toward inclusive learning  
+- An **ICT trainer** building capacity for modern classrooms  
+
+📫 **Connect with me**:  
+- [💼 LinkedIn](https://linkedin.com/in/cosmos-owiredu-93a266156/)  
+- [🌐 GitHub Projects](https://github.com/Yaw-Owiredu)  
+- 🏅 [AWS Certification Post](https://www.linkedin.com/posts/department-of-ict-education-university-of-education-winneba_uewalumni-techleadership-cloudcomputing-activity-7337926049701285888-mZTN)
+
+---
+
+> “Empowering educators is the first step toward empowering future generations.”
